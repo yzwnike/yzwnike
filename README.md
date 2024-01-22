@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @yzwnike
-- 👀 I’m interested in semen
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on la cura del cancer
-- 📫 How to reach me: call 666
+- 👀 I’m interested in M03 PROGRAMACIÓ
+- 🌱 I’m currently learning M05
+- 💞️ I’m looking to collaborate on APPROVE M03
+- 📫 How to reach me: YES
 - 😄 Pronouns: elp/epe
-- ⚡ Fun fact: Tu madre tiene una polla, que ya la quisiera yo, me dio pena por tu padre, el día en que se entero,
-- que fue la noche de bodas, ¿Quién se iba a imaginar?, que iba a ser a tu padre, al quien lo iban a encular.
+- ⚡ Fun fact: Tu madre tiene una TARJETA GRÁFICA, que ya la quisiera yo, me dio pena por tu padre, el día en que se entero,
+- que fue la noche de bodas, ¿Quién se iba a imaginar?, que iba a ser a tu padre, al quien lo iban a INSERTAR UN DRIVER.
 
 <!---
 yzwnike/yzwnike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
