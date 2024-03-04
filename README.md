@@ -25,6 +25,12 @@
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 
+
+
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=yzwnike)](https://github.com/yzwnike/)
+
+
+
 ## Barras de Contribuciones
 
 ![Barras de Contribuciones](https://github.com/yzwnike)
@@ -36,7 +42,7 @@
 
 ## Otras Estadísticas
 
-- [GitHut](https://githut.info/)
+- [GitHut](https://githut.info/yzwnike)
 - [Git Awards](https://git-awards.com/)
 
 
