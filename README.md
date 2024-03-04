@@ -1,3 +1,8 @@
+[![Coding Cat](//media.giphy.com/media/VgWiiBJz6bbZvVO0Us/giphy.gif)](//media.giphy.com/media/VgWiiBJz6bbZvVO0Us/giphy.gif)
+
+
+
+
 - 👋 Hi, I’m @yzwnike
 - 👀 I’m interested in M03 PROGRAMACIÓ
 - 🌱 I’m currently learning M05
@@ -18,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
 
 
 
