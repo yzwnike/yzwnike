@@ -1,4 +1,4 @@
-[![Coding Cat](//media.giphy.com/media/VgWiiBJz6bbZvVO0Us/giphy.gif)](//media.giphy.com/media/VgWiiBJz6bbZvVO0Us/giphy.gif)
+![Header](./github-header-image.png)
 
 
 
