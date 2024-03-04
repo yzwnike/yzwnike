@@ -2,22 +2,21 @@
 
 
 
+# ¡Hola! Soy YZWNIKE 👋
 
-- 👋 Hi, I’m @yzwnike
-- 👀 I’m interested in M03 PROGRAMACIÓ
-- 🌱 I’m currently learning M05
-- 💞️ I’m looking to collaborate on APPROVE M03
-- 📫 How to reach me: YES
-- 😄 Pronouns: elp/epe
-- ⚡ Fun fact: Tu madre tiene una TARJETA GRÁFICA, que ya la quisiera yo, me dio pena por tu padre, el día en que se entero,
-- que fue la noche de bodas, ¿Quién se iba a imaginar?, que iba a ser a tu padre, al quien lo iban a INSERTAR UN DRIVER.
+¡Bienvenido a mi perfil de GitHub! Soy un entusiasta de la programación y me encanta contribuir a proyectos de código abierto. Aquí encontrarás algunos detalles interesantes sobre mí y mi actividad en GitHub.
 
-<!---
-yzwnike/yzwnike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre Mí
 
-![Gráfico de Contribuciones](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+- 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades de programación.
+- 💼 Estoy buscuando experiencia en estudios de informática.
+- 💬 Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+## Lenguajes Más Utilizados
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -26,15 +25,23 @@ You can click the Preview link to take a look at your changes.
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 
+## Barras de Contribuciones
+
+![Barras de Contribuciones](https://github.com/yzwnike)
+
+## Estado en GitHub
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yzwnike&theme=react-dark)
 
 
+## Otras Estadísticas
+
+- [GitHut](https://githut.info/)
+- [Git Awards](https://git-awards.com/)
 
 
+  
 
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+¡Gracias por visitar mi perfil! Espero que encuentres útil la información aquí proporcionada. ¡No dudes en seguirme y explorar mis proyectos!
 
-
-
-
-![Demostración](./demo.gif)
 
