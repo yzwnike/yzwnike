@@ -30,21 +30,6 @@
 [![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=yzwnike)](https://github.com/yzwnike/)
 
 
-
-## Barras de Contribuciones
-
-![Barras de Contribuciones](https://github.com/yzwnike)
-
-## Estado en GitHub
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yzwnike&theme=react-dark)
-
-
-## Otras Estadísticas
-
-- [GitHut](https://githut.info/yzwnike)
-- [Git Awards](https://git-awards.com/)
-
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/yzwnike/count.svg)
 
