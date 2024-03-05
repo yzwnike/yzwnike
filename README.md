@@ -27,7 +27,7 @@
 
 ## Demo
 
-[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=yzwnike)](https://github.com/yzwnike/)
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=Primitiva)](https://github.com/yzwnike/)
 
 
 ## Visitor Count
