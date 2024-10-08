@@ -12,7 +12,7 @@
 - 💼 Estoy buscuando experiencia en estudios de informática.
 - 💬 Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
-## Estadísticas de GitHub
+## Estadísticas de GitHub 
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
