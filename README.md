@@ -12,10 +12,6 @@
 - 💼 Trabajando en Desarrollo web con uso de Astro, Tailwind, React, Next, entre otras herramientas.
 - 💬 Si tienes alguna pregunta o sugerencia, no dudes en contactarme: nicovehi@gmail.com
 
-## Estadísticas de GitHub 
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-
 ## Lenguajes Más Utilizados
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,14 +22,17 @@
 - Variedad de lenguajes y herramientas: Astro, Next, Tailwind, GDScript, React, PHP, Laravel y conocimiento pleno de varios lenguajes
 
 
-## Mis Juegos con Godot
+## Mis Juegos con Godot:
 
 [![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=FNAFYZW)](https://github.com/yzwnike/)
 [![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=JuegoYazawis)](https://github.com/yzwnike/)
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=GAMEBUFAS)](https://github.com/yzwnike/)
 
+## Algunas webs:
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/yzwnike/count.svg)
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=loickstark&repo=jairoquintero.com)](https://github.com/loickstark/)
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=fcbufasweb)](https://github.com/yzwnike/)
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=proud-planet)](https://github.com/yzwnike/)
 
 
 
