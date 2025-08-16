@@ -4,13 +4,13 @@
 
 # ¡Hola! Soy YZWNIKE 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un entusiasta de la programación y me encanta contribuir a proyectos de código abierto. Aquí encontrarás algunos detalles interesantes sobre mí y mi actividad en GitHub.
+¡Bienvenido a mi perfil de GitHub! Aquí subo todo lo que se me pasa por la cabeza que quiero hacer y lo hago, lo que me gusta lo pongo publico, lo que no, nunca lo veréis. Programo Juegos Indies por diversión y Desarrollo de Webs para empresas (lo último ya es para llegar a fin de mes).
 
 ## Sobre Mí
 
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades de programación.
-- 💼 Estoy buscuando experiencia en estudios de informática.
-- 💬 Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+- 💼 Trabajando en Desarrollo web con uso de Astro, Tailwind, React, Next, entre otras herramientas.
+- 💬 Si tienes alguna pregunta o sugerencia, no dudes en contactarme: nicovehi@gmail.com
 
 ## Estadísticas de GitHub 
 
@@ -23,11 +23,13 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- Variedad de lenguajes y herramientas: Astro, Next, Tailwind, GDScript, React, PHP, Laravel y conocimiento pleno de varios lenguajes
 
 
-## Demo
+## Mis Juegos con Godot
 
-[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=Primitiva)](https://github.com/yzwnike/)
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=FNAFYZW)](https://github.com/yzwnike/)
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=JuegoYazawis)](https://github.com/yzwnike/)
 
 
 ## Visitor Count
