@@ -22,11 +22,12 @@
 - Variedad de lenguajes y herramientas: Astro, Next, Tailwind, GDScript, React, PHP, Laravel y conocimiento pleno de varios lenguajes
 
 
-## Mis Juegos con Godot:
+## Mis Juegos con Godot y RPGmaker:
 
 [![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=FNAFYZW)](https://github.com/yzwnike/)
 [![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=JuegoYazawis)](https://github.com/yzwnike/)
 [![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=GAMEBUFAS)](https://github.com/yzwnike/)
+[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=yzwnike&repo=pokemon-eclipse)](https://github.com/yzwnike/)
 
 ## Algunas webs:
 
